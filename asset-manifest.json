@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AOI/static/css/main.5f361e03.chunk.css",
+    "main.js": "/AOI/static/js/main.b2e6564c.chunk.js",
+    "main.js.map": "/AOI/static/js/main.b2e6564c.chunk.js.map",
+    "runtime-main.js": "/AOI/static/js/runtime-main.f073f191.js",
+    "runtime-main.js.map": "/AOI/static/js/runtime-main.f073f191.js.map",
+    "static/js/2.5f46c166.chunk.js": "/AOI/static/js/2.5f46c166.chunk.js",
+    "static/js/2.5f46c166.chunk.js.map": "/AOI/static/js/2.5f46c166.chunk.js.map",
+    "index.html": "/AOI/index.html",
+    "precache-manifest.8456aa515c6bfadbd86ce7b38058948c.js": "/AOI/precache-manifest.8456aa515c6bfadbd86ce7b38058948c.js",
+    "service-worker.js": "/AOI/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/AOI/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5f46c166.chunk.js.LICENSE.txt": "/AOI/static/js/2.5f46c166.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AOI/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f073f191.js",
+    "static/js/2.5f46c166.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b2e6564c.chunk.js"
+  ]
+}
